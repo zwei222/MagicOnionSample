@@ -2,4 +2,12 @@
   <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="MagicOnion.Client" Version="5.1.8" />
+    <PackageVersion Include="MagicOnion.Server" Version="5.1.8" />
+    <PackageVersion Include="MagicOnion.Server.HttpGateway" Version="5.1.8" />
+    <PackageVersion Include="MagicOnion.Shared" Version="5.1.8" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+  </ItemGroup>
 </Project>
